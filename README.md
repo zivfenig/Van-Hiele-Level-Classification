@@ -250,6 +250,15 @@ For MAE, lower is better. For all other metrics, higher is better.
 ---
  
 ## Citation
+@misc{fenigstein2026automaticallyinferringteachersgeometric,
+      title={Automatically Inferring Teachers' Geometric Content Knowledge: A Skills Based Approach}, 
+      author={Ziv Fenigstein and Kobi Gal and Avi Segal and Osama Swidan and Inbal Israel and Hassan Ayoob},
+      year={2026},
+      eprint={2604.13666},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY},
+      url={https://arxiv.org/abs/2604.13666}, 
+}
  
 If you use this code or data in your research, please cite:
  
